@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "songname": "video message 1",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/neekaryamulu.jpg",
+    "youtubeurl":"F94SUusEO9o"
+  },
+  
+  {
+    "id": "2",
+    "songname": "video message 2",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/neekaryamulu.jpg",
+    "youtubeurl":"F94SUusEO9o"
+  },
+  
+  {
+    "id": "3",
+    "songname": "video message 3",
+    "imageurl": "https://raw.githubusercontent.com/anandbabukarre/thousandpraises-jsondata/master/neekaryamulu.jpg",
+    "youtubeurl":"F94SUusEO9o"
+  }
+  
+]
