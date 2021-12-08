@@ -1,15 +1,15 @@
 [
 	{
 		"id": "1",
-		"songname": "3-8-2020 Live - Sthuthi naivedya pradhana- Hosanna Mandir RJY - Message by Pastor. John Wesley Anna",
+		"name": "3-8-2020 Live - Sthuthi naivedya pradhana- Hosanna Mandir RJY - Message by Pastor. John Wesley Anna",
 		"imageurl": "https://raw.githubusercontent.com/anandbabukarre/hosannaministries/master/livetoday.jpg",
-		"youtubeurl": "J9X2PBAKHvg"
+		"videourl": "J9X2PBAKHvg"
 	},
 	{
 		"id": "2",
-		"songname": "3-08-2020 Live - Hosanna Ministries Gorantla Family Prayer live Message by Pastor.Abraham Anna",
+		"name": "3-08-2020 Live - Hosanna Ministries Gorantla Family Prayer live Message by Pastor.Abraham Anna",
 		"imageurl": "https://raw.githubusercontent.com/anandbabukarre/hosannaministries/master/livetodayabhraham.jpg",
-		"youtubeurl": "J7OJkpsrm2s"
+		"videourl": "J7OJkpsrm2s"
 	},
 	
 	{
@@ -21,33 +21,33 @@
 	
 	{
 		"id": "4",
-		"songname":"John wesley anna నా కన్నీటి సాక్ష్యం",
+		"name":"John wesley anna నా కన్నీటి సాక్ష్యం",
 		"imageurl": "https://raw.githubusercontent.com/anandbabukarre/hosannaministries/master/johnweselygarisakshyam.jpg",
-		"youtubeurl": "LZui3OKLnuI"
+		"videourl": "LZui3OKLnuI"
 	},
 	
 	
 	{
 		"id": "5",
-		"songname":"పాస్టర్. అబ్రహాం గారి కన్నీటి సాక్ష్యం Hosanna Ministries Pas.Abraham anna Testimony",
+		"name":"పాస్టర్. అబ్రహాం గారి కన్నీటి సాక్ష్యం Hosanna Ministries Pas.Abraham anna Testimony",
 		"imageurl": "https://raw.githubusercontent.com/anandbabukarre/hosannaministries/master/abhrahamgarisakshyam.jpg",
-		"youtubeurl": "aqPh7RhBvKA"
+		"videourl": "aqPh7RhBvKA"
 	},
 	
 	
 	{
 		"id": "6",
-		"songname":"Telugu Christian Testimony Pastor Freddy Paul anna",
+		"name":"Telugu Christian Testimony Pastor Freddy Paul anna",
 		"imageurl": "https://raw.githubusercontent.com/anandbabukarre/hosannaministries/master/freddypaulgarisakshyam.jpg",
-		"youtubeurl": "3VQlnuDaFKM"
+		"videourl": "3VQlnuDaFKM"
 	},
 	
 	
 	{
 		"id": "7",
-		"songname":"Pastor. Ramesh anna testimony",
+		"name":"Pastor. Ramesh anna testimony",
 		"imageurl": "https://raw.githubusercontent.com/anandbabukarre/hosannaministries/master/rameshgarisakshyam.jpg",
-		"youtubeurl": "5i7plllluJo"
+		"videourl": "5i7plllluJo"
 	}
 	
 	
